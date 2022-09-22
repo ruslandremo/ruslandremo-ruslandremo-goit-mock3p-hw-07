@@ -1,0 +1,24 @@
+:root {
+    --primary-title-color: #ffffff;
+    --secondary-title-color: #212121;
+    --primary-text-color: #757575;
+    --secondary-text-color: #212121;
+    --accent-color: #2196f3;
+    --heder-text-color: #212121;
+    --baground-colour: #2f303a;
+    --baground-colour-bottom: #f5f4fa;
+    --baground-colour-bott: #188ce8;
+    --footer-color: rgba(255, 255, 255, 0.6);
+    --border-color: #ececec;
+    --pictures-color: #f5f4fa;
+    --company-boarder: #afb1b8;
+  }
+
+  .body {
+    font-family: "Roboto",sans-serif;
+    letter-spacing: .03em;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: var(--primary-text-color);
+  }
